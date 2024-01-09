@@ -1,7 +1,7 @@
-### What's goodieeee 👋
+# What's goodieeee 👋
 My name is Tony and I'm passionate about sports, finance, and technology. Here, you'll find a collection of my coding projects that showcase my skills and interests. From creating web applications to analyzing financial data, I love exploring the intersection of these fields through code. Feel free to browse around and explore the projects I've worked on. I'm new to GitHub and coding in general so any tips and advice would be greatly appreciated. Let's build! Thank you for stopping by!
 
-## Virtual Experience Data Analytics Consulting Program Participant - KPMG
+### Virtual Experience Data Analytics Consulting Program Participant - KPMG
 Recently, I completed the KPMG Data Analytics Virtual Consulting Internship, an experience that defied conventional learning methods by emphasizing self-driven exploration and problem-solving. The program revolved around three pivotal tasks: Data Quality Assessment, Data Insights, and Data Presentation, all centred on a provided business dataset encompassing customer demographics, transactions, and more.
 
 One of the most striking aspects was the emphasis on self-learning. Participants could choose their preferred technology and platform to tackle tasks effectively. The internship's structure encouraged autonomy, allowing for trial and error, enabling personal growth through research and learning from mistakes.
@@ -21,7 +21,7 @@ The final task involved creating a dashboard using tools like Power BI, Tableau,
 
 I'm immensely grateful to KPMG and Inside Sherpa for orchestrating this brilliantly crafted data analytics virtual consulting experience. It offered an incredible platform to delve into real-world scenarios and enhance technical and communication skills in a dynamic learning environment.
 
-## Virtual Experience Technology Consulting Program Participant -  Deloitte
+### Virtual Experience Technology Consulting Program Participant -  Deloitte
 During my internship, I delved into real-world scenarios that mirror the challenges consultants face while collaborating with clients. The program encompassed three key modules, each targeting critical areas:
 
 Module 1 – Technology Strategy & Innovation:
