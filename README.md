@@ -1,5 +1,9 @@
-# What's goodieeee 👋
-My name is Tony and I'm passionate about sports and technology. Here, you'll find a collection of my data analysis projects that showcase my skills and interests. From creating data pipelines to analyzing financial models, I love exploring the intersection of these fields to create impact. You can browse around and explore the projects I've worked on. I'm new to GitHub and coding, so any tips and advice would be greatly appreciated. Let's build, thank you for stopping by!
+# Welcome to My GitHub!
+Hi, I'm Tony—a data analyst, filmmaker, and stock investor passionate about uncovering insights, storytelling, and strategic decision-making. My work spans data analytics, automation, and financial modeling, with a strong interest in entrepreneurship, soccer, and basketball.
+
+Here, you'll find a mix of data-driven projects, from building machine learning pipelines to analyzing market trends and sports analytics. As I continue growing in coding and GitHub, I welcome any tips, feedback, or collaborations.
+
+Let’s connect and build something great—thanks for stopping by! 🚀
 
 ### Virtual Experience Data Analytics Consulting Program Participant - KPMG
 Recently, I completed the KPMG Data Analytics Virtual Consulting Internship, an experience that defied conventional learning methods by emphasizing self-driven exploration and problem-solving. The program revolved around three pivotal tasks: Data Quality Assessment, Data Insights, and Data Presentation, centring on a provided business dataset encompassing customer demographics, transactions, and more.
